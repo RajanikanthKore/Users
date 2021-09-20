@@ -80,7 +80,7 @@ public class Centre {
 	}
 
 	public Centre get() {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
